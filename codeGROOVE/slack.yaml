@@ -1,0 +1,19 @@
+global:
+    prefix: ":postal_horn:"
+    slack: codegroove-workspace.slack.com
+
+channels:
+    goose:
+      mute: true
+
+    all-codegroove:
+      repos:
+        - "*"
+
+    social:
+      repos:
+        - goose
+        - sprinkler
+        - slacker
+
+
