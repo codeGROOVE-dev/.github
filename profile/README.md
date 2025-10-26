@@ -1,6 +1,6 @@
 ## 🚀 codeGROOVE
 
-We're on a mission to help teams ship code faster, with an audacious goal of lowering the average push-to-merge time by 90%+ - with our first GitHub app going beta in November of 2025.
+We're on a mission to help teams ship code faster, with an ambitious goal of lowering the pull request latency by 94% - our first GitHub app (Ready-to-Review) will go beta in November 2025.
 
 We're big open-source nerds and actively sponsor GitHub projects we love, as well as host dozens of our own. Here are some:
 
