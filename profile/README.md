@@ -7,3 +7,4 @@ We're big open-source nerds and actively sponsor GitHub projects we love, as wel
 * [Review Goose](https://github.com/codeGROOVE-dev/goose) - desktop app to notify you when there is code waiting for your review
 * [retry](https://github.com/codeGROOVE-dev/retry) - Simple battle-hardened retry library for Go.
 * [slacker](https://github.com/codeGROOVE-dev/slacker) - A smarter Slack notification bot for GitHub
+* [sprinkler](https://github.com/codeGROOVE-dev/sprinkler) - A webhook to websocket broadcast proxy for GitHub
